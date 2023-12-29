@@ -1,4 +1,3 @@
-//your JS code here. If required.
 // Function to update the width and height values
 function updateSizeInfo() {
     const width = window.innerWidth;
